@@ -12,6 +12,7 @@ It can read the multimeter current in realtime for testers to verify during thei
 ![image](https://github.com/Anujsh20/Simulator_GUI/assets/168450934/6db97b17-db29-4289-ac54-9cd327fdba67)
 
 
+
 It can simulate a statndard 500ms wakeup pulse to DUT.
 ![image](https://github.com/Anujsh20/Simulator_GUI/assets/168450934/f9f3644e-81fb-4a2b-ad93-7132026db5e9)
 
