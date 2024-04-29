@@ -9,6 +9,7 @@ v0.1
 The tool is strictly for BCP benches(With some modifications), first things first what exactly the tool can do:
 
 It can read the multimeter current in realtime for testers to verify during their testing:
+
 ![image](https://github.com/Anujsh20/Simulator_GUI/assets/168450934/6db97b17-db29-4289-ac54-9cd327fdba67)
 
 
